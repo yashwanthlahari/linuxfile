@@ -1,0 +1,6 @@
+#! /bin/bash
+# this is new commads
+echo &pwd
+echo $ls
+echo $ls -ltr
+echo 'date'
